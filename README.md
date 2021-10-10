@@ -1,9 +1,9 @@
 # NIH Internship
 
-Anuva Banwasi
-Software Engineering Fellow, National Institutes of Health (NIH)
-Coding it Forward Fellow
-06/2021 - 08/2021
+Anuva Banwasi <br />
+Software Engineering Fellow, National Institutes of Health (NIH) <br />
+Coding it Forward Fellow <br />
+06/2021 - 08/2021 <br />
 
 
 This repository includes sample code from my internship. The Classifier.ipynb is a Python notebook that includes my code
